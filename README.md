@@ -1,4 +1,8 @@
-# README
+# rr
+
+`rails new --help` for generator options.
+`bin/rails server` to start the puma web server.
+`bin/rails generate controller Articles index --skip-routes`
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
