@@ -1,8 +1,10 @@
 # rr
 
-`rails new --help` for generator options.
-`bin/rails server` to start the puma web server.
-`bin/rails generate controller Articles index --skip-routes`
+`rails new --help` for generator options.  
+`bin/rails server` to start the puma web server.  
+`bin/rails generate controller Articles index --skip-routes`  
+`bin/rails generate model Article title:string body:text`  
+`bin/rails db:migrate`  
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
